@@ -28,6 +28,6 @@ Then Compile the code (Ctrl+F9)
     Wait to finish compiling 
 <div align="center">
   <img src="https://lh4.googleusercontent.com/-xKJxOf7V2xg/TYMVbqdKfwI/AAAAAAAAAYY/d0yNmdDxgDo/s1600/Virus+kEYLOGGERS+using+Visual+C%252B%252B+2.JPG">
-    
+</div>
 Now execute the program by selecting Execute->Run(ctrl+F10)
 Keylogger will run in your system, whatever you type using keyboard would be stored in Log.txt file, you can see the log.txt file where you save keylogger.cpp
