@@ -31,3 +31,5 @@ Then Compile the code (Ctrl+F9)
 </div>
 Now execute the program by selecting Execute->Run(ctrl+F10)
 Keylogger will run in your system, whatever you type using keyboard would be stored in Log.txt file, you can see the log.txt file where you save keylogger.cpp
+
+# Keylogger in Linux
