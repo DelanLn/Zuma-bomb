@@ -22,6 +22,7 @@ Install dev C++ in your system and open the dev C++ compiler.
 Then Compile the code (Ctrl+F9)
 <div align="center">
   <img src="https://lh4.googleusercontent.com/-5JF_qhTYNA8/TYMVyaczGeI/AAAAAAAAAYc/P0U11btwi1c/s1600/Virus+kEYLOGGERS+using+Visual+C%252B%252B+1.JPG">
+    </div>
   
                                                              
                                                              
@@ -32,4 +33,16 @@ Then Compile the code (Ctrl+F9)
 Now execute the program by selecting Execute->Run(ctrl+F10)
 Keylogger will run in your system, whatever you type using keyboard would be stored in Log.txt file, you can see the log.txt file where you save keylogger.cpp
 
-# Keylogger in Linux
+# KIN (Keylogger in Linux)
+
+## Prerequisites:
+
+* python-xlib
+* pyxhook
+
+ Install python-xlib if you don't have it already
+ 
+                            sudo apt-get install python-xlib
+Download [Pyxhook Library](https://github.com/JeffHoogland/pyxhook/blob/master/pyxhook.py)
+
+Run the program, and the keylogger will be started in the background and save all the data on the file.log file
